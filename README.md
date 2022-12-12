@@ -1,8 +1,7 @@
-### Hello World !
+# Hello World !
+Je suis Matteo, développeur web junior. J'aime créer et rendre dynamique des sites web et applications mobiles.
 
-Je suis développeur web junior. J'aime créer et rendre dynamique des sites web et applications mobiles.
-
-[matteobruccoleri.com](https://matteobruccoleri.com)  |  [LinkedIn](https://www.linkedin.com/in/matteo-bruccoleri)  |  [email](mailto:matteobruccolerii@gmail.com)
+[matteobruccoleri.com](https://matteobruccoleri.com) | [LinkedIn](https://www.linkedin.com/in/matteo-bruccoleri) | [email](mailto:matteobruccolerii@gmail.com)
 
 <!--
 **MatteoBruccoleri/MatteoBruccoleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
