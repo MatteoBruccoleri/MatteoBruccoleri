@@ -1,5 +1,5 @@
 # Hello World !
-Je suis Matteo, développeur web junior. J'aime créer et rendre dynamique des sites web et applications mobiles.
+Je suis Matteo, développeur web junior.
 
 [matteobruccoleri.com](https://matteobruccoleri.com) | [LinkedIn](https://www.linkedin.com/in/matteo-bruccoleri) | [email](mailto:matteobruccolerii@gmail.com)
 
